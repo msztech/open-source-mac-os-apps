@@ -455,6 +455,7 @@ You can see in which language an app is written. Currently there are following l
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices.  ![python_icon] 
 
 ### Productivity
+- [Air Pasteboard](https://github.com/msztech/AirPasteboardOpen) - Mac system bar app that allows you to quickly share pasteboard to Gist, and files via iCloud or Dropbox. ![swift_icon] 
 - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app. ![javascript_icon] ![css_icon] 
 - [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar. ![swift_icon] 
 - [Cerebro](https://github.com/KELiON/cerebro) - Cross-platform launcher app.  ![javascript_icon] 
